@@ -1,0 +1,109 @@
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Documents\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\jkershawbrown\Documents\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Documents\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Documents\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Documents\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Documents\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Documents\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\jkershawbrown\Documents\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\jkershawbrown\Documents\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05\Traffic lights with threads 15-05\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05\Traffic lights with threads 15-05\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05\Traffic lights with threads 15-05\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05\Traffic lights with threads 15-05\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05\Traffic lights with threads 15-05\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05\Traffic lights with threads 15-05\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05\Traffic lights with threads 15-05\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05\Traffic lights with threads 15-05\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05\Traffic lights with threads 15-05\Traffic lights with threads\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Documents\Traffic lights with threads 15-05 2.0 (1)\Traffic lights with threads 15-05 2.0\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\jkershawbrown\Documents\Traffic lights with threads 15-05 2.0 (1)\Traffic lights with threads 15-05 2.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Documents\Traffic lights with threads 15-05 2.0 (1)\Traffic lights with threads 15-05 2.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Documents\Traffic lights with threads 15-05 2.0 (1)\Traffic lights with threads 15-05 2.0\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Documents\Traffic lights with threads 15-05 2.0 (1)\Traffic lights with threads 15-05 2.0\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Documents\Traffic lights with threads 15-05 2.0 (1)\Traffic lights with threads 15-05 2.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Documents\Traffic lights with threads 15-05 2.0 (1)\Traffic lights with threads 15-05 2.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\jkershawbrown\Documents\Traffic lights with threads 15-05 2.0 (1)\Traffic lights with threads 15-05 2.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\jkershawbrown\Documents\Traffic lights with threads 15-05 2.0 (1)\Traffic lights with threads 15-05 2.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05 3.0\Traffic lights with threads 15-05 3.0\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05 3.0\Traffic lights with threads 15-05 3.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05 3.0\Traffic lights with threads 15-05 3.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05 3.0\Traffic lights with threads 15-05 3.0\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05 3.0\Traffic lights with threads 15-05 3.0\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05 3.0\Traffic lights with threads 15-05 3.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05 3.0\Traffic lights with threads 15-05 3.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05 3.0\Traffic lights with threads 15-05 3.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 15-05 3.0\Traffic lights with threads 15-05 3.0\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (top right)\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (top right)\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (top right)\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (top right)\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (top right)\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (top right)\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (top right)\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (top right)\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (top right)\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom left)\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom left)\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom left)\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom left)\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom left)\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom left)\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom left)\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom left)\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom left)\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom right)\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom right)\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom right)\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\Traffic lights with threads 16-05\Traffic lights with threads 16-05\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\Reece Davies\Documents\Computer Science\Year 1\NET107\Traffic lights 2\TrafficLight (bottom right)\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\Reece Davies\Documents\Computer Science\Year 1\NET107\Traffic lights 2\TrafficLight (bottom right)\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\Reece Davies\Documents\Computer Science\Year 1\NET107\Traffic lights 2\TrafficLight (bottom right)\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\Reece Davies\Documents\Computer Science\Year 1\NET107\Traffic lights 2\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.csprojAssemblyReference.cache
+C:\Users\Reece Davies\Documents\Computer Science\Year 1\NET107\Traffic lights 2\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\Reece Davies\Documents\Computer Science\Year 1\NET107\Traffic lights 2\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\Reece Davies\Documents\Computer Science\Year 1\NET107\Traffic lights 2\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+C:\Users\Reece Davies\Documents\Computer Science\Year 1\NET107\Traffic lights 2\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Reece Davies\Documents\Computer Science\Year 1\NET107\Traffic lights 2\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\Reece Davies\Documents\Computer Science\Year 1\NET107\Traffic lights 2\TrafficLight (bottom right)\TrafficLight\obj\Debug\TrafficLight.pdb
